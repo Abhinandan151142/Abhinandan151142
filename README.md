@@ -47,22 +47,6 @@
 ![FAISS](https://img.shields.io/badge/FAISS-FF6B35?style=flat-square&logo=meta&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
-
----
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%" />
-
-</div>
-
-<div align="center">
-
-
-
-</div>
-
----
 
 ## About
 
