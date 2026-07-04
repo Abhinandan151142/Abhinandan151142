@@ -8,53 +8,78 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=false&vCenter=true&width=650&lines=Building+AI+systems+that+turn+raw+data+into+decisions;RAG+assistants+%7C+Financial+Intelligence+%7C+Real-time+Dashboards)
 
-# Abhinandan Gupta
-### Full Stack Engineer building production-grade AI systems
+<div align="center">
 
-**4 shipped AI products** · **RAG · LLMs · Real-time analytics** · **Final Year B.Tech CSE**
+<h1>Abhinandan Gupta</h1>
 
-🎓 B.Tech CSE · **UIET, CSJMU Kanpur** · Graduating 2026
-💼 Ex-Intern at **GNCIPL, Kanpur** · Full Stack Development
-🧠 Building **RAG systems, AI finance tools** & real-time dashboards
-🚀 Open to **Full Stack, Backend & AI Engineer** roles — available immediately
+<h3>
+Full Stack Engineer building production-grade AI systems
+</h3>
 
-<br/>
+<p>
+<b>4 shipped AI products</b> • <b>RAG</b> • <b>LLMs</b> • <b>Real-time Analytics</b> • <b>Final Year B.Tech CSE</b>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-gupta-3395353a8/)
-[![Email](https://img.shields.io/badge/Email-Write_to_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinandanguptaatlas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@Abhinandan151142-181717?style=for-the-badge&logo=github)](https://github.com/Abhinandan151142)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demos-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://fininsight-ai.netlify.app)
+<p>
+🎓 <b>B.Tech CSE</b> • <b>UIET, CSJMU Kanpur</b> • Graduating 2026
+</p>
 
-> 👇 Scroll to see featured projects, engineering philosophy & what I'm currently building
+<p>
+💼 Ex-Intern at <b>GNCIPL, Kanpur</b> • Full Stack Development
+</p>
+
+<p>
+🧠 Building <b>RAG Systems</b>, AI Finance Tools & Real-time Dashboards
+</p>
+
+<p>
+🚀 Open to <b>Full Stack, Backend & AI Engineer</b> roles — Available Immediately
+</p>
+
+<br>
+
+<a href="https://www.linkedin.com/in/abhinandan-gupta-3395353a8/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abhinandanguptaatlas@gmail.com">
+<img src="https://img.shields.io/badge/Email-Write_to_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Abhinandan151142">
+<img src="https://img.shields.io/badge/GitHub-@Abhinandan151142-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://fininsight-ai.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Live_Demos-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+<b>👇 Scroll to explore my featured projects, engineering philosophy & current work</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-FF6B35?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
 
 ---
 
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-FF6B35?style=flat-square&logo=meta&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## About
-
-I'm a B.Tech undergrad in computer science and engineering who got tired of building apps that only move data from one box to another.
-
-The shift happened when I started reading about large language models — not just how to call an API, but why retrieval-augmented generation produces more trustworthy answers than vanilla inference, why embedding models encode semantic meaning into geometry, why chunking strategy affects recall quality. That curiosity pushed me from MERN tutorials into building systems that actually reason.
-
-Today I build full-stack products where the intelligence layer is the feature, not an afterthought. My work sits at the boundary between traditional web engineering and applied AI: FastAPI services that orchestrate vector retrieval, React frontends that make complex data scannable, Python pipelines that parse unstructured documents into something a model can reason over.
-
-I'm not chasing hype. I'm learning how these systems actually work — and building things that demonstrate the difference.
-
----
 
 ## Engineering Philosophy
 
