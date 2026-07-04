@@ -12,7 +12,7 @@
 
 ---
 
-🎓 B.Tech CSE · **UIET, CSJMU Kanpur** · Graduating 2026  
+🎓 B.Tech CSE · **UIET, CSJMU Kanpur** · Graduated 2026  
 💼 Ex-Intern at **GNCIPL, Kanpur** · Full Stack Development  
 🧠 Building **RAG systems, AI finance tools** & real-time dashboards  
 📈 Active **NSE/BSE intraday & options trader** · Nifty F&O  
