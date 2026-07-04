@@ -1,5 +1,51 @@
 <div align="center">
 
+<!-- Typing badge -->
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=👋+Building+software+that+thinks%2C+not+just+displays)
+
+# Abhinandan Gupta
+
+**Full Stack Engineer · AI Systems Builder · Intraday Trader**
+
+---
+
+🎓 B.Tech CSE · **UIET, CSJMU Kanpur** · Graduating 2026  
+💼 Ex-Intern at **GNCIPL, Kanpur** · Full Stack Development  
+🧠 Building **RAG systems, AI finance tools** & real-time dashboards  
+📈 Active **NSE/BSE intraday & options trader** · Nifty F&O  
+🚀 Open to **Full Stack, Backend & AI Engineer** roles  
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-gupta-3395353a8/)
+[![Email](https://img.shields.io/badge/Email-Write_to_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinandanguptaatlas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@Abhinandan151142-181717?style=for-the-badge&logo=github)](https://github.com/Abhinandan151142)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-FF6B35?style=flat-square&logo=meta&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%" />
 
 </div>
