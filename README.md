@@ -6,7 +6,7 @@
 
 </div>
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=false&vCenter=true&width=650&lines=Building+AI+systems+that+turn+raw+data+into+decisions;RAG+assistants+%7C+Financial+Intelligence+%7C+Real-time+Dashboards;250%2B+contributions+%C2%B7+Top+8%25+of+developers)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=false&vCenter=true&width=650&lines=Building+AI+systems+that+turn+raw+data+into+decisions;RAG+assistants+%7C+Financial+Intelligence+%7C+Real-time+Dashboards)
 
 # Abhinandan Gupta
 ### Full Stack Engineer building production-grade AI systems
