@@ -49,80 +49,26 @@ Full Stack Engineer building production-grade AI systems
 <b>👇 Scroll to explore my featured projects, engineering philosophy & current work</b>
 <br><br>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-FF6B35?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
----
-## About
-
-
-
-I'm a B.Tech undergrad in computer science and engineering who got tired of building apps that only move data from one box to another.
-
-The shift happened when I started reading about large language models — not just how to call an API, but why retrieval-augmented generation produces more trustworthy answers than vanilla inference, why embedding models encode semantic meaning into geometry, why chunking strategy affects recall quality. That curiosity pushed me from MERN tutorials into building systems that actually reason.
-
-Today I build full-stack products where the intelligence layer is the feature, not an afterthought. My work sits at the boundary between traditional web engineering and applied AI: FastAPI services that orchestrate vector retrieval, React frontends that make complex data scannable, Python pipelines that parse unstructured documents into something a model can reason over.
-
-I'm not chasing hype. I'm learning how these systems actually work — and building things that demonstrate the difference.
-
----
-
-## Engineering Philosophy
-
-**Understand before you abstract.**
-I read source code before I use libraries. I understand why FAISS's inner-product search is equivalent to cosine similarity on normalized vectors before I call `.search()`. Abstractions are useful after you understand what's underneath them — not instead.
-
-**Build for the person who reads the code next.**
-That person is usually me in three weeks. Variable names, function boundaries, and comments are decisions I make at authoring time that compound over a project's lifetime. Clean code isn't aesthetics — it's respect for future work.
-
-**Constraints produce better systems.**
-A strict prompt structure produces more reliable LLM output than a long, descriptive one. A relevance threshold that returns nothing beats one that returns irrelevant chunks. Designing for failure modes is harder than designing for the happy path, and more important.
-
-**Ship something real.**
-Deployed projects teach things that local `localhost:3000` projects never do — CORS policies, cold starts, environment variable injection, async database connections on a cloud host. Every project in my portfolio is deployed and accessible.
-
----
 
 ## Technical Skills
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 **Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 
 **AI / ML**
 
@@ -131,7 +77,6 @@ Deployed projects teach things that local `localhost:3000` projects never do —
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD43B?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **Databases**
 
@@ -145,8 +90,6 @@ Deployed projects teach things that local `localhost:3000` projects never do —
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
