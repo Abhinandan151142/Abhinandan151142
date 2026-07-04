@@ -8,14 +8,13 @@
 
 # Abhinandan Gupta
 
-**Full Stack Engineer · AI Systems Builder · Intraday Trader**
+**Full Stack Engineer · AI Systems Builder · **
 
 ---
 
 🎓 B.Tech CSE · **UIET, CSJMU Kanpur** · Graduated 2026  
 💼 Ex-Intern at **GNCIPL, Kanpur** · Full Stack Development  
-🧠 Building **RAG systems, AI finance tools** & real-time dashboards  
-📈 Active **NSE/BSE intraday & options trader** · Nifty F&O  
+🧠 Building **RAG systems, AI finance tools** & real-time dashboards   
 🚀 Open to **Full Stack, Backend & AI Engineer** roles  
 
 <br/>
