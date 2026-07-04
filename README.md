@@ -1,26 +1,3 @@
-<div align="center">
-
-<!-- Typing badge -->
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+turn+raw+data+into+decisions;RAG+assistants+%7C+Financial+Intelligence+%7C+Real-time+Dashboards;250%2B+contributions+%C2%B7+Top+8%25+of+developers)
-
-# Abhinandan Gupta
-### Full Stack Engineer building production-grade AI systems
-
-**4 shipped AI products** · **RAG · LLMs · Real-time analytics** · **Final Year B.Tech CSE**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-gupta-3395353a8/)
-[![Email](https://img.shields.io/badge/Email-Write_to_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinandanguptaatlas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@Abhinandan151142-181717?style=for-the-badge&logo=github)](https://github.com/Abhinandan151142)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demos-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://fininsight-ai.netlify.app)
-
-<br/>
-
-### 🎯 Open to Full Stack, Backend & AI Engineer roles — available immediately
-
-**👇 See what I've built and how I think — scroll to Featured Projects & About Me**
-
 </div>
 
 ---
