@@ -50,9 +50,6 @@ Full Stack Engineer building production-grade AI systems
 <img src="https://img.shields.io/badge/GitHub-@Abhinandan151142-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://fininsight-ai.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Live_Demos-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 <br><br>
 <b>👇 Scroll to explore my featured projects, engineering philosophy & current work</b>
 <br><br>
@@ -82,19 +79,11 @@ Full Stack Engineer building production-grade AI systems
 
 I'm a B.Tech undergrad in computer science and engineering who got tired of building apps that only move data from one box to another.
 
-
-
 The shift happened when I started reading about large language models — not just how to call an API, but why retrieval-augmented generation produces more trustworthy answers than vanilla inference, why embedding models encode semantic meaning into geometry, why chunking strategy affects recall quality. That curiosity pushed me from MERN tutorials into building systems that actually reason.
-
-
 
 Today I build full-stack products where the intelligence layer is the feature, not an afterthought. My work sits at the boundary between traditional web engineering and applied AI: FastAPI services that orchestrate vector retrieval, React frontends that make complex data scannable, Python pipelines that parse unstructured documents into something a model can reason over.
 
-
-
 I'm not chasing hype. I'm learning how these systems actually work — and building things that demonstrate the difference.
-
-
 
 ---
 
