@@ -47,7 +47,10 @@
 ![FAISS](https://img.shields.io/badge/FAISS-FF6B35?style=flat-square&logo=meta&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
+<br/>
+<!-- PROJECT BANNER -->
+<img src="images/banner.png" alt="FinInsight AI Dashboard" width="90%" style="border-radius:12px" />
+<br/><br/>
 ## About
 
 I'm B.Tech undergrad in computer science and engineering who got tired of building apps that only move data from one box to another.
