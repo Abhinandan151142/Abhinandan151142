@@ -4,7 +4,7 @@
 
 </div>
 
-</div>
+<div align="center">
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=false&vCenter=true&width=650&lines=Building+AI+systems+that+turn+raw+data+into+decisions;RAG+assistants+%7C+Financial+Intelligence+%7C+Real-time+Dashboards)
 
@@ -15,23 +15,18 @@
 <h3>
 Full Stack Engineer building production-grade AI systems
 </h3>
-
 <p>
 <b>4 shipped AI products</b> • <b>RAG</b> • <b>LLMs</b> • <b>Real-time Analytics</b> • <b>Final Year B.Tech CSE</b>
 </p>
-
 <p>
 🎓 <b>B.Tech CSE</b> • <b>UIET, CSJMU Kanpur</b> • Graduating 2026
 </p>
-
 <p>
 💼 Ex-Intern at <b>GNCIPL, Kanpur</b> • Full Stack Development
 </p>
-
 <p>
 🧠 Building <b>RAG Systems</b>, AI Finance Tools & Real-time Dashboards
 </p>
-
 <p>
 🚀 Open to <b>Full Stack, Backend & AI Engineer</b> roles — Available Immediately
 </p>
