@@ -8,28 +8,25 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=false&vCenter=true&width=650&lines=Building+AI+systems+that+turn+raw+data+into+decisions;RAG+assistants+%7C+Financial+Intelligence+%7C+Real-time+Dashboards)
 
-<div align="center">
+<div>
 
-<h1>Abhinandan Gupta</h1>
+# Hi, I'm Abhinandan Gupta 👋
 
-<h3>
-Full Stack Engineer building production-grade AI systems
-</h3>
-<p>
-<b>4 shipped AI products</b> • <b>RAG</b> • <b>LLMs</b> • <b>Real-time Analytics</b> • <b>Final Year B.Tech CSE</b>
-</p>
-<p>
-🎓 <b>B.Tech CSE</b> • <b>UIET, CSJMU Kanpur</b> • Graduated 2026
-</p>
-<p>
-💼 Ex-Intern at <b>GNCIPL, Kanpur</b> • Full Stack Development
-</p>
-<p>
-🧠 Building <b>RAG Systems</b>, AI Finance Tools & Real-time Dashboards
-</p>
-<p>
-🚀 Open to <b>Full Stack, Backend & AI Engineer</b> roles — Available Immediately
-</p>
+## 🚀 Actively Seeking Full-Time Opportunities
+
+### Full-Stack Engineer | Backend Developer | AI/ML Enthusiast
+
+**Actively looking for Full-Time & Entry-Level opportunities in Full-Stack Development, Backend Engineering, Frontend Development, and AI/ML Engineering ( Delhi NCR | Bengaluru | Mumbai | Hyderabad | Pune | Remote )**
+
+**4 Production-Ready Projects** • **MERN Stack** • **Python** • **AI/ML Integration** • **RAG** • **LLMs**
+
+🎓 **B.Tech in Computer Science & Engineering** • **UIET, CSJMU Kanpur** • **Graduated 2026**
+
+💼 **Former Full-Stack Development Intern** at **GNCIPL, Kanpur**
+
+🛠️ Building scalable applications with **React, Node.js, Express.js, MongoDB, PostgreSQL, FastAPI, and AI-powered workflows**
+
+📩 **Open to Software Engineer, Full-Stack Developer, Backend Developer, Frontend Developer, and AI/ML Engineer roles — Available Immediately**
 
 <br>
 
@@ -103,86 +100,37 @@ KnowledgeOps      →  Knowledge graph RAG: Neo4j + ChromaDB + FastAPI + React  
 
 The through-line: systems where the interesting engineering is retrieval, not rendering.
 
----
+## 🚀 Featured Projects
 
-## Featured Projects
-
-<br/>
-
-### DocuMind — RAG Document Intelligence Assistant
-
-> Upload a `.txt` knowledge document. Ask anything. Get source-grounded answers.
-
-The core problem: LLMs hallucinate when they don't know something. DocuMind solves this by constraining the model to retrieved context — it can only answer from passages your retrieval step selected. Every response returns the exact source chunks used, making answers auditable.
-
-**Stack:** `FastAPI` `Python 3.11` `Sentence Transformers` `FAISS` `Groq LLaMA 3.3 70B` `Next.js 15` `PostgreSQL (Supabase)` `Docker`
-
-**Engineering details:**
-- Overlapping character chunking (700 chars / 120 overlap) prevents sentence loss at boundaries
-- Cosine similarity via L2-normalized inner product on `all-MiniLM-L6-v2` embeddings (384-dim)
-- Relevance threshold (`score < 0.10`) returns a clean fallback instead of a weak answer
-- FAISS on Linux/Mac; transparent NumPy fallback for Windows — same behavior, no config change
-- System prompt explicitly frames context as facts, not instructions — prompt injection mitigation
-- Async PostgreSQL (asyncpg) logs every question, answer, context, and source chunks
-
-[![Repo](https://img.shields.io/badge/GitHub-DocuMind-181717?style=flat-square&logo=github)](https://github.com/Abhinandan151142/DocuMind-RAG-Based-FAQ)
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=netlify)](https://llm-faq-bot.vercel.app)
-
-<br/>
-
-### FinInsight AI — Privacy-First Financial Intelligence Platform
-
-> Upload any bank statement. Get institutional-grade financial analysis. Your data never leaves your control.
-
-The core problem: personal finance apps trade persistent account access for generic pie charts. FinInsight takes the opposite position — ephemerally process your statement, reason over it with an LLM, delete it when done.
-
-**Stack:** `FastAPI` `Python 3.11` `Claude API` `ChromaDB` `MongoDB Atlas` `React 18` `Vite` `Tesseract.js` `Redis` `Docker`
-
-**Engineering details:**
-- Query-expansion before embedding: rewrites "why did I overspend on food?" into transaction-like descriptions before the vector search, improving retrieval recall from ~60% to ~91%
-- Date-window chunking (7-day batches with 2-day overlap) preserves temporal coherence in financial data — fixed-token chunking was splitting transaction contexts mid-record
-- Duplicate charge detection: amount + merchant + card + 10-minute window + different transaction IDs; precision 98%
-- Prompt-level PII stripping: account and card numbers removed from context before Claude API calls
-- Client-side OCR (Tesseract.js) runs in parallel with the upload, cutting end-to-end latency from 8s to 2.1s
-- Zero-Retention Mode: files deleted from ephemeral S3 staging within 3–5 seconds of parse completion
-
-[![Repo](https://img.shields.io/badge/GitHub-FinInsight_AI-181717?style=flat-square&logo=github)](https://github.com/Abhinandan151142/fininsight-ai)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://fininsight-ai.netlify.app/)
-
-<br/>
-
-### Crime Pattern Analysis Dashboard
-
-> Real-time crime monitoring platform with ML-powered district-level prediction.
-
-Built the entire frontend — live crime feed, interactive Leaflet map with heatmap overlay, Chart.js analytics, and a prediction engine with realistic model metrics (88–91% accuracy, not the 99% you see in tutorials). Dark glassmorphism UI with smooth animations optimized for operational use.
-
-**Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS v4` `Leaflet.js` `Chart.js` `React Router`
-
-**Engineering details:**
-- Auto-updating crime feed every 8–10 seconds with animated map markers
-- District-based 7-day risk forecasting with confidence scores and crime-type probability breakdowns
-- Advanced data table with filtering (date range, district, crime type, severity), pagination, and export (CSV, PDF, JSON)
-- Lighthouse score 90+; bundle 727 KB gzipped to 218 KB
-
-[![Repo](https://img.shields.io/badge/GitHub-Crime_Dashboard-181717?style=flat-square&logo=github)](https://github.com/Abhinandan151142/Crime-Pattern-Analysis-and-Prediction-System)
-
-<br/>
-
-### ActiveArc — Fitness Tracker (React Native)
-
-> Mobile fitness tracking with an Apple Fitness-style interface.
-
-**Stack:** `React Native` `Expo` `React Navigation` `React Native SVG` `AsyncStorage` `Context API`
-
-**Engineering details:**
-- Animated progress rings (SVG) with step count, calorie tracking, cycling distance, and workout logging
-- Custom theme engine with dark/light mode; persistent state via AsyncStorage
-- Google Fit sync architecture (mock integration with real hook structure)
-
-[![Repo](https://img.shields.io/badge/GitHub-ActiveArc-181717?style=flat-square&logo=github)](https://github.com/Abhinandan151142/fit-get)
+### 🌟 **DocuMind — RAG Document Intelligence Assistant**
+- AI-powered document Q&A system using **RAG + FAISS + LLaMA 3.3 70B**.
+- Retrieves context-aware answers with **source citations** to eliminate hallucinations.
+- Built with **FastAPI, Next.js 15, Sentence Transformers, PostgreSQL, Docker**.
+- Optimized retrieval using semantic search, overlapping chunking, and prompt-injection protection.
 
 ---
+
+### 💰 **FinInsight AI — Privacy-First Financial Intelligence Platform**
+- AI platform that analyzes **bank statements** without storing user data.
+- Uses **Claude API + ChromaDB** for semantic financial insights and spending analysis.
+- Implements **PII masking, duplicate transaction detection, and client-side OCR**.
+- Built with **React, FastAPI, MongoDB Atlas, Redis, Docker, Tesseract.js**.
+
+---
+
+### 🚔 **Crime Pattern Analysis Dashboard**
+- Interactive **crime analytics dashboard** with district-level crime prediction.
+- Features **real-time map visualization, heatmaps, filtering, and predictive analytics**.
+- Built using **React, TypeScript, Tailwind CSS, Leaflet.js, and Chart.js**.
+- Optimized UI with responsive design, export support, and **90+ Lighthouse score**.
+
+---
+
+### 💪 **ActiveArc — Fitness Tracker**
+- Cross-platform **React Native fitness tracking** application.
+- Tracks workouts, calories, steps, cycling, and daily activity with animated dashboards.
+- Supports **dark/light themes**, persistent local storage, and modular architecture.
+- Built using **Expo, React Navigation, SVG, AsyncStorage, and Context API**.
 
 ## GitHub Activity
 
@@ -193,45 +141,16 @@ Built the entire frontend — live crime feed, interactive Leaflet map with heat
 
 ---
 
-## What I'm Learning
+## 📚 What I'm Learning
 
-Right now I'm going deep on three things:
+- **⚛️ MERN Stack Development** — Building scalable full-stack applications with **MongoDB, Express.js, React, and Node.js**, focusing on clean architecture, REST APIs, authentication, and production-ready deployments.
 
-**Knowledge graph RAG** — building KnowledgeOps, where retrieval happens over a Neo4j graph rather than a flat vector store. Graph structure lets you traverse entity relationships, not just find semantically similar chunks. Different class of retrieval quality.
+- **🐍 Python & AI/ML Integration** — Developing AI-powered applications using **Python, LLMs, RAG and intelligent automation**.
 
-**System design** — studying distributed systems patterns: consistent hashing, write-ahead logs, read replicas, idempotency keys. The gap between "app that works" and "system that scales" is mostly these primitives, applied correctly.
-
-**Inference optimization** — quantization (GGUF/GGML), speculative decoding, KV-cache management. Running models efficiently matters when you're not on Groq's hardware.
+- **🗄️ Database Engineering** — Working with **PostgreSQL, MongoDB**, focusing on schema design, query optimization, indexing, and efficient data modeling.
 
 ---
 
 ## Certifications
 
 - **IBM SkillsBuild — Cybersecurity Fundamentals** (2026)
-- **B.Tech Computer Science & Engineering** — UIET, CSJMU Kanpur (2026)
-
----
-
-## Areas of Interest
-
-These are the problems I find genuinely interesting — not because they're on a resume checklist, but because I keep reading about them unprompted:
-
-- **Retrieval-Augmented Generation** — the architecture that makes LLMs reliable
-- **Vector databases and approximate nearest neighbor search** — the infrastructure underneath RAG
-- **Privacy-preserving AI systems** — ephemeral processing, local embeddings, PII stripping
-- **System design** — how distributed systems stay consistent under failure
-- **Developer tooling** — the build/test/observe loop and what makes it fast
-
----
-
-## Contact
-
-I'm looking for full-stack and backend engineering roles with meaningful AI/ML components — internships and entry-level positions in Noida, Delhi NCR, Bangalore, or remote.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinandan_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-gupta-3395353a8/)
-[![Email](https://img.shields.io/badge/Email-abhinandanguptaatlas%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinandanguptaatlas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@Abhinandan151142-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinandan151142)
-
----
-
-<sub>Kanpur, India · B.Tech CSE 2026 · Open to opportunities</sub>
