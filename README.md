@@ -18,7 +18,7 @@ UIET, CSJMU Kanpur &nbsp;·&nbsp; Graduating 2026
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinandan_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinandan_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-gupta-3395353a8/)
 [![Email](https://img.shields.io/badge/Email-abhinandanGuptaatlas%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinandanguptaatlas@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Abhinandan151142&color=0d1117&style=flat-square&label=Profile+Views)](https://github.com/Abhinandan151142)
 
@@ -108,6 +108,7 @@ The core problem: personal finance apps trade persistent account access for gene
 - Zero-Retention Mode: files deleted from ephemeral S3 staging within 3–5 seconds of parse completion
 
 [![Repo](https://img.shields.io/badge/GitHub-FinInsight_AI-181717?style=flat-square&logo=github)](https://github.com/Abhinandan151142/fininsight-ai)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://fininsight-ai.netlify.app/)
 
 <br/>
 
@@ -228,7 +229,7 @@ Right now I'm going deep on three things:
 ## Certifications
 
 - **IBM SkillsBuild — Cybersecurity Fundamentals** (2026)
-- **B.Tech Computer Science & Engineering** — UIET, CSJMU Kanpur (Graduating 2026)
+- **B.Tech Computer Science & Engineering** — UIET, CSJMU Kanpur (2026)
 
 ---
 
@@ -248,11 +249,9 @@ These are the problems I find genuinely interesting — not because they're on a
 
 I'm looking for full-stack and backend engineering roles with meaningful AI/ML components — internships and entry-level positions in Noida, Delhi NCR, Bangalore, or remote.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinandanguptaatlas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinandan_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-gupta-3395353a8/)
+[![Email](https://img.shields.io/badge/Email-abhinandangupta039%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinandangupta039@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@Abhinandan151142-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinandan151142)
-[![Resume](https://img.shields.io/badge/Resume-Download-4A90E2?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.pdf)
-
 ---
 
 <div align="center">
