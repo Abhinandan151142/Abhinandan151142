@@ -58,21 +58,7 @@
 
 <div align="center">
 
-```
-Building software that reasons about data, not just displays it.
-```
 
-# Abhinandan Gupta
-
-**Full Stack Engineer · AI Systems Builder · Final Year B.Tech CSE**
-
-UIET, CSJMU Kanpur &nbsp;·&nbsp; Graduating 2026
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinandan_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-gupta-3395353a8/)
-[![Email](https://img.shields.io/badge/Email-abhinandanGuptaatlas%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinandanguptaatlas@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Abhinandan151142&color=0d1117&style=flat-square&label=Profile+Views)](https://github.com/Abhinandan151142)
 
 </div>
 
