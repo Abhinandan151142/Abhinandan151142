@@ -20,7 +20,6 @@ UIET, CSJMU Kanpur &nbsp;·&nbsp; Graduating 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinandan_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![Email](https://img.shields.io/badge/Email-abhinandanGuptaatlas%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinandanguptaatlas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Abhinandan151142&color=0d1117&style=flat-square&label=Profile+Views)](https://github.com/Abhinandan151142)
 
 </div>
@@ -29,7 +28,7 @@ UIET, CSJMU Kanpur &nbsp;·&nbsp; Graduating 2026
 
 ## About
 
-I'm a final-year computer science student who got tired of building apps that only move data from one box to another.
+I'm B.Tech undergrad computer science graduate who got tired of building apps that only move data from one box to another.
 
 The shift happened when I started reading about large language models — not just how to call an API, but why retrieval-augmented generation produces more trustworthy answers than vanilla inference, why embedding models encode semantic meaning into geometry, why chunking strategy affects recall quality. That curiosity pushed me from MERN tutorials into building systems that actually reason.
 
