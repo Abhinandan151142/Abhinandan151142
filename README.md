@@ -28,7 +28,7 @@ UIET, CSJMU Kanpur &nbsp;·&nbsp; Graduating 2026
 
 ## About
 
-I'm B.Tech undergrad computer science graduate who got tired of building apps that only move data from one box to another.
+I'm B.Tech undergrad in computer science and engineering who got tired of building apps that only move data from one box to another.
 
 The shift happened when I started reading about large language models — not just how to call an API, but why retrieval-augmented generation produces more trustworthy answers than vanilla inference, why embedding models encode semantic meaning into geometry, why chunking strategy affects recall quality. That curiosity pushed me from MERN tutorials into building systems that actually reason.
 
