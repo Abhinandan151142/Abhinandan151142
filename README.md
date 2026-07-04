@@ -1,10 +1,9 @@
 <div align="center">
-
-# 👋 Welcome • स्वागत • સ્વાગત • ಸ್ವಾಗತ • வரவேற்கிறோம் • സ്വാഗതം
+  
+<h2>👋 Welcome • स्वागत • સ્વાગત • ಸ್ವಾಗತ • வரவேற்கிறோம் • സ്വാഗതം</h2>
 
 <!-- Typing Animation -->
 </div>
-
 ---
 <div align="center">
 
