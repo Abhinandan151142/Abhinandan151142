@@ -19,7 +19,7 @@ Full Stack Engineer building production-grade AI systems
 <b>4 shipped AI products</b> • <b>RAG</b> • <b>LLMs</b> • <b>Real-time Analytics</b> • <b>Final Year B.Tech CSE</b>
 </p>
 <p>
-🎓 <b>B.Tech CSE</b> • <b>UIET, CSJMU Kanpur</b> • Graduating 2026
+🎓 <b>B.Tech CSE</b> • <b>UIET, CSJMU Kanpur</b> • Graduated 2026
 </p>
 <p>
 💼 Ex-Intern at <b>GNCIPL, Kanpur</b> • Full Stack Development
